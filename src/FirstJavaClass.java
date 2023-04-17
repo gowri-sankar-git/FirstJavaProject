@@ -130,7 +130,7 @@ public class FirstJavaClass {
 						//continue;
 					}
 					System.out.println(i);
-					System.out.println("Change via GitHub_1");
+					System.out.println("Change via GitHub_1GM");
 				}
 						
 	}
